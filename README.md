@@ -1,2 +1,2 @@
 # react-form
-For Chargify
+HTML Constraints only, no Redux / Redux Form
